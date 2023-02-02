@@ -44,6 +44,10 @@ body {
   
   body > img {
     margin: 0 10px;
+    background-color: rgba(0, 0, 0, 0.185);
+    justify-content: space-around;
+    box-shadow: 20px 20px 50px -30px #1900ff;
+    border-radius: 25px;
   }
   
   img {
@@ -106,13 +110,25 @@ body {
   }
   
   span {
-    display: grid;
+    align-items: center;
+    display: flex;
     flex-wrap: wrap;
     float: left;
-    width: 150px;
+    width: auto;
     margin: 20px;
-    padding: 1rem;
+    padding: 50px;
     color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.185);
+    justify-content: space-around;
+    box-shadow: 20px 20px 50px -30px #1900ff;
+    border-radius: 25px;
+  
+
+  }
+
+  span, img {
+    width: 200px;
+    height: 100%;
   }
   
   .tituloCategoria {
@@ -155,7 +171,7 @@ body {
   }
 
   footer {
-    margin-top: 500px;
+    margin-top: 110rem;
   }
   
   
