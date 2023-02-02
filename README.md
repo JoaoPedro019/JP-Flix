@@ -12,7 +12,7 @@ Imersão DEV é um evento exclusivo e gratuito, promovido pela Alura para ensino
 <br>
 
 <p align="center">
-  <img alt="projeto JP Flix" src=".github/preview.jpg" width="100%">
+  <img alt="projeto JP Flix" src="[JP Flix](https://user-images.githubusercontent.com/110321358/216228405-1412b212-ebf0-41b6-bb8c-87eb341ec7df.png)width="100%">
 </p>
 
 ## 🚀 Tecnologias
