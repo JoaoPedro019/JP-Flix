@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> JP Flix </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Imersão DEV é um evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto JP Flix" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,14 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online] (https://JoaoPedro019.github.io/Nlw-Setup)
+- [Visite o projeto online] (https://JoaoPedro019.github.io/JP-Flix)
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
